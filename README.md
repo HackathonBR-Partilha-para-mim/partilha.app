@@ -35,7 +35,7 @@ PARA O CLIENTE
  
  ## 💪 Time
   - Daniel Leite (Designer) - Manaus/AM  [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
-  - Diago Sávio Sucar - Rio de Janeiro/RJ [LinkedIn](https://www.linkedin.com/in/diagosucar/)
-  - Léo Moraes - Florianópolis/SC  (Business) [Linkedin](https://www.linkedin.com/in/leohmoraes/)
-  - Rafael Souza - Anápolis/GO (Dev) [LinkedIn](https://www.linkedin.com/in/rafaelbleidi/) . [GitHub](https://github.com/bleidi)
-  - Vinícius Passos - Linhares/ES (Dev) [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
+  - Diago Sávio Sucar (Marketing) - Rio de Janeiro/RJ [LinkedIn](https://www.linkedin.com/in/diagosucar/)
+  - Léo Moraes (Business) - Florianópolis/SC [Linkedin](https://www.linkedin.com/in/leohmoraes/)
+  - Rafael Souza (Dev) - Anápolis/GO [LinkedIn](https://www.linkedin.com/in/rafaelbleidi/) . [GitHub](https://github.com/bleidi)
+  - Vinícius Passos (Dev) - Linhares/ES [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
