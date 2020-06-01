@@ -30,6 +30,12 @@ PARA O CLIENTE
   - *Produtos*: Integra soluções atuais da BMG, como empréstimos emergenciais e de curto prazo.
   - *Inovação*: Dá a BMG mais um diferencial competitivo centrado em facilitar a vida de seus clientes
  
+ ### 🔗 Links
+- Video Pitch: [Youtube](https://www.youtube.com/watch?v=NQAi_OUKhpg)
+- Video Navegação no app: [Video](https://www.loom.com/share/90e566b777d240a5943618c0cf7e7c5a)
+- Protótipo: [Link](https://partilha-pra-mim.web.app/)
+- Design: [Figma](https://www.figma.com/proto/3Q9U2l3Hn0oS9I6sDPbNR7/HACK-BMG?node-id=28%3A2&scaling=scale-down)
+ 
  ### ⚙ Tecnologias
  - *[Flutter](https://flutter.dev/)* 
  - *[GraphQL](https://graphql.org/)*
