@@ -82,3 +82,9 @@ flutter:
           weight: 700
         - asset: fonts/Ubuntu-Light.ttf
           weight: 300
+
+flutter_icons:
+  image_path: "icon/partilha.ico"
+  android: true
+  ios: true
+  web: true
